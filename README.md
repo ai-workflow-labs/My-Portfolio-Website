@@ -3,7 +3,7 @@
 Welcome to the official portfolio website for **AI Workflow Labs**.  
 This site showcases a collection of automation tools, AI experiments, multi-agent workflows, and open-source projects designed to streamline intelligent systems.
 
-🌐 **Live Website:** [Click here](https://aiworkflowlabs.space.z.ai/projects)
+🌐 **Live Website:** [Click here](https://aiworkflowlabs.space.z.ai)
 
 ---
 
